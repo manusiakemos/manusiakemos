@@ -1,4 +1,4 @@
-# Hi, I'm Hafiz Noegraha 👋
+# Hi, I'm Hafiz Nugraha 👋
 
 I'm a web developer experienced in:
 
